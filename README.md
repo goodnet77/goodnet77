@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @goodnet77
 - 👀 I’m interested in UMPA, Vision AI
 - 🌱 I’m currently learning Python, Javascript, Node.js
-- 💞️ I’m looking to collaborate on general vision AI with the person who can manipulate the NLP.
+- 💞️ I’m want to collaborate with the person who can manipulate the NLP to create general vision AI. 
 - 📫 Email me to goodnet77@naver.com
 
 <!---
