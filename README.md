@@ -3,7 +3,7 @@
 - 🌱 I’m programming with Python, Node.js and javascript.
 - 💞️ I want to collaborate with the person who is interested in AI applications.
 - 📫 Email me to goodnet77@naver.com
-- homepage: https://promptwiki.net
+- homepage: https://promptwiki.net, https: landntalk.com
 
 <!---
 goodnet77/goodnet77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
